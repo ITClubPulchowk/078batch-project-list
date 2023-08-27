@@ -4,9 +4,10 @@ List of college projects by undergraduates from 078 Batch, Pulchowk Campus.
 ### C Programming Project
 * [Grapher-C](https://github.com/bishal0602/grapher-c) - [@krishtimil](https://github.com/krishtimil) (BCT045), [@bishal0602](https://github.com/bishal0602) (BCT036), [@prabinadkri](https://github.com/prabinadkri) (BCT058), [@tyro-apil](https://github.com/tyro-apil) (BCT017)
 
+---
 
 ### OOP Project
-
+* [Echo](https://github.com/Fiesty-Cushion/Echo) - [@Fiesty-Cushion](https://github.com/Fiesty-Cushion) (BCT037), [@bishal0602](https://github.com/bishal0602) (BCT036), [@th3-roGue-deV1l](https://github.com/th3-roGue-deV1l) (BCT029)
 
 ---
 
