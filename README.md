@@ -30,6 +30,13 @@ List of college projects by undergraduates from 078 Batch, Pulchowk Campus.
 * [visualEngine](https://github.com/Bhraman-sh/visualEngine) - [@Bhraman-sh](https://github.com/Bhraman-sh) (BCT027), [@JanardanBhetwal](https://github.com/JanardanBhetwal) (BCT044)
 * [binary-plan-mlm](https://github.com/krishantt/binary-plan-mlm) - [@bigya01](https://github.com/bigya01) (BCT032), [@krishantt](https://github.com/krishantt) (BCT045)
 * [PathFinder](https://github.com/bishallamichhane44/PathFinder) -  [@bishallamichhane44](https://github.com/bishallamichhane44) (BCT035), [@bipinbashyal](https://github.com/bipinbashyal) (BCT033), [@AyusK4](https://github.com/AyusK4) (BCT025) - [@roshankc00](https://github.com/roshankc00) (BCT098)
+
+---
+
+
+### Computer Graphics Project
+* [Pixel Craft](https://github.com/bhuwantechnical/Pixel-Craft) - [@bhuwantechnical](https://github.com/bhuwantechnical) (BCT028), [@Fiesty-Cushion](https://github.com/Fiesty-Cushion) (BCT037)
+
 ---
 
 ### Note:
