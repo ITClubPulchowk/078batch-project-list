@@ -37,7 +37,7 @@ List of college projects by undergraduates from 078 Batch, Pulchowk Campus.
 
 ### Computer Graphics Project
 * [Pixel Craft](https://github.com/bhuwantechnical/Pixel-Craft) - [@bhuwantechnical](https://github.com/bhuwantechnical) (BCT028), [@Fiesty-Cushion](https://github.com/Fiesty-Cushion) (BCT037)
-
+* [Voxel Engine](https://github.com/krishantt/voxel_engine) - [@bigya01](https://github.com/bigya01) (BCT032), [@krishantt](https://github.com/krishantt) (BCT045)
 * [3D Polygoneer](https://github.com/sandipkatel/3D-Polygoneer) - [@sandipkatel](https://github.com/sandipkatel/) (BCT077), [@SijanJ](https://github.com/SijanJ) (BCT087), [@saphalr](https://github.com/saphalr) (BCT078), [@sharadpokharel108](https://github.com/sharadpokharel108) (BCT083)
 
 ---
